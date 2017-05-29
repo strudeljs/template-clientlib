@@ -1,0 +1,23 @@
+{
+  "prompts": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "label": "Clientlib name"
+    },
+    "categories": {
+      "type": "string",
+      "required": true,
+      "label": "Clientlib categories"
+    },
+    "dependencies:": {
+      "type": "string",
+      "label": "Clientlib dependencies"
+    },
+    "aemsync": {
+      "type": "boolean",
+      "required": true,
+      "label": "Use aem sync?"
+    }
+  }
+}

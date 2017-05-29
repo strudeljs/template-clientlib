@@ -1,0 +1,2 @@
+#base=scss
+main.entry.css
